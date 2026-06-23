@@ -14,7 +14,7 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-G39DRE1X2F');
-    gtag('config', 'AW-18133963978');
+    gtag('config', 'AW-17597907952');
   </script>
 
   <style>
@@ -268,7 +268,7 @@
       </a>
       <a href="https://wa.me/573161832897?text=Hola,%20busco%20un%20podólogo%20en%20Medellín%20para%20agendar%20cita"
          class="nav__cta"
-         onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+         onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
         <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
         <span>Agendar cita</span>
       </a>
@@ -293,7 +293,7 @@
     <div class="hero__actions">
       <a href="https://wa.me/573161832897?text=Hola,%20quiero%20agendar%20una%20cita%20con%20podólogo%20en%20Medellín"
          class="btn-wa"
-         onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+         onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
         Agendar cita hoy
       </a>
@@ -483,7 +483,7 @@
         <div class="price-card__desc">Atención podológica integral: corte y limado correctivo de uñas, retiro de callosidades, hidratación y masaje final.</div>
         <div class="price-card__footer">
           <div class="price-card__price">$162.500<small>por sesión</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20quiero%20agendar%20una%20Quiropedia%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20quiero%20agendar%20una%20Quiropedia%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Agendar
           </a>
@@ -498,7 +498,7 @@
         <div class="price-card__desc">Procedimiento clínico para tratar la uña encarnada en un lateral, con anestesia local, corte profundo y cobertura cicatrizante.</div>
         <div class="price-card__footer">
           <div class="price-card__price">$200.000<small>por lateral</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20de%20Onicocriptosis%20(1%20lateral)%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20de%20Onicocriptosis%20(1%20lateral)%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Agendar
           </a>
@@ -513,7 +513,7 @@
         <div class="price-card__desc">Tratamiento de uña encarnada en ambos laterales del dedo, con anestesia local y curación con apósitos especializados.</div>
         <div class="price-card__footer">
           <div class="price-card__price">$225.000<small>ambos laterales</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20de%20Onicocriptosis%20(2%20laterales)%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20de%20Onicocriptosis%20(2%20laterales)%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Agendar
           </a>
@@ -528,7 +528,7 @@
         <div class="price-card__desc">Extracción parcial o total de la lámina ungueal cuando la uña presenta daño severo o no es viable conservarla.</div>
         <div class="price-card__footer">
           <div class="price-card__price">$250.000<small>por uña</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20una%20Onicotomía%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20una%20Onicotomía%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Agendar
           </a>
@@ -543,7 +543,7 @@
         <div class="price-card__desc">Extracción de la lámina ungueal aplicada en dos uñas durante la misma sesión clínica.</div>
         <div class="price-card__footer">
           <div class="price-card__price">$300.000<small>dos uñas</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20una%20Onicotomía%20X2%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20una%20Onicotomía%20X2%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Agendar
           </a>
@@ -558,7 +558,7 @@
         <div class="price-card__desc">Examen clínico completo del pie para identificar patologías, definir un plan terapéutico y orientarte en el cuidado adecuado.</div>
         <div class="price-card__footer">
           <div class="price-card__price"><span style="font-size:1rem;">Consultar valor</span><small>Agenda tu valoración</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20quiero%20agendar%20una%20Evaluación%20y%20Diagnóstico%20podológico%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20quiero%20agendar%20una%20Evaluación%20y%20Diagnóstico%20podológico%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Consultar
           </a>
@@ -573,7 +573,7 @@
         <div class="price-card__desc">Sesión enfocada en mantener la salud del pie, evitar callosidades, lesiones y problemas en las uñas antes de que aparezcan.</div>
         <div class="price-card__footer">
           <div class="price-card__price"><span style="font-size:1rem;">Consultar valor</span><small>Agenda tu valoración</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20quiero%20información%20sobre%20Quiropedia%20Preventiva%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20quiero%20información%20sobre%20Quiropedia%20Preventiva%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Consultar
           </a>
@@ -588,7 +588,7 @@
         <div class="price-card__desc">Atención específica para pacientes con diabetes, con protocolo de bioseguridad reforzado y vigilancia de heridas y sensibilidad.</div>
         <div class="price-card__footer">
           <div class="price-card__price"><span style="font-size:1rem;">Consultar valor</span><small>Agenda tu valoración</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20busco%20atención%20de%20Pie%20Diabético%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20busco%20atención%20de%20Pie%20Diabético%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Consultar
           </a>
@@ -603,7 +603,7 @@
         <div class="price-card__desc">Retiro profesional de durezas y callosidades en zona plantar, con tratamiento de fondo para prevenir su reaparición.</div>
         <div class="price-card__footer">
           <div class="price-card__price"><span style="font-size:1rem;">Consultar valor</span><small>Agenda tu valoración</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20de%20Callosidades%20y%20Durezas%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20de%20Callosidades%20y%20Durezas%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Consultar
           </a>
@@ -618,7 +618,7 @@
         <div class="price-card__desc">Manejo clínico de uñas afectadas por hongos: limado profundo, aplicación de queratolítico y plan antimicótico personalizado.</div>
         <div class="price-card__footer">
           <div class="price-card__price"><span style="font-size:1rem;">Consultar valor</span><small>Agenda tu valoración</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20para%20Onicofosis%20(Hongos)%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20para%20Onicofosis%20(Hongos)%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Consultar
           </a>
@@ -633,7 +633,7 @@
         <div class="price-card__desc">Tratamiento de la micosis interdigital con limpieza profunda, productos antifúngicos y recomendaciones para evitar recaídas.</div>
         <div class="price-card__footer">
           <div class="price-card__price"><span style="font-size:1rem;">Consultar valor</span><small>Agenda tu valoración</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20de%20Pie%20de%20Atleta%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20de%20Pie%20de%20Atleta%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Consultar
           </a>
@@ -648,7 +648,7 @@
         <div class="price-card__desc">Eliminación clínica de helomas o clavos plantares, con análisis de causas biomecánicas y recomendaciones de descarga.</div>
         <div class="price-card__footer">
           <div class="price-card__price"><span style="font-size:1rem;">Consultar valor</span><small>Agenda tu valoración</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20de%20Clavos%20(Helomas)%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20necesito%20tratamiento%20de%20Clavos%20(Helomas)%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Consultar
           </a>
@@ -663,7 +663,7 @@
         <div class="price-card__desc">Reeducación de la curvatura ungueal mediante el uso de bracket o alambre correctivo para tratar uñas encarnadas o deformes.</div>
         <div class="price-card__footer">
           <div class="price-card__price"><span style="font-size:1rem;">Consultar valor</span><small>Agenda tu valoración</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20quiero%20información%20sobre%20Ortonixia%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20quiero%20información%20sobre%20Ortonixia%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Consultar
           </a>
@@ -678,7 +678,7 @@
         <div class="price-card__desc">Cuidado podológico adaptado para adultos mayores, con técnicas suaves, protocolo cómodo y posibilidad de atención a domicilio.</div>
         <div class="price-card__footer">
           <div class="price-card__price"><span style="font-size:1rem;">Consultar valor</span><small>Agenda tu valoración</small></div>
-          <a href="https://wa.me/573161832897?text=Hola,%20busco%20podología%20para%20adulto%20mayor%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+          <a href="https://wa.me/573161832897?text=Hola,%20busco%20podología%20para%20adulto%20mayor%20en%20Medellín" class="price-card__cta" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
             Consultar
           </a>
@@ -686,7 +686,7 @@
       </div>
 
     </div>
-    <p class="pricing-note">¿Tu situación requiere asesoría previa o tienes alguna particularidad? <a href="https://wa.me/573161832897?text=Hola,%20tengo%20una%20consulta%20sobre%20precios%20y%20servicios" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">Contáctanos por WhatsApp →</a></p>
+    <p class="pricing-note">¿Tu situación requiere asesoría previa o tienes alguna particularidad? <a href="https://wa.me/573161832897?text=Hola,%20tengo%20una%20consulta%20sobre%20precios%20y%20servicios" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">Contáctanos por WhatsApp →</a></p>
   </div>
 </section>
 
@@ -699,7 +699,7 @@
         <p>Trasladamos toda la clínica al lugar que prefieras. Cubrimos La Francia, Laureles, sector Norte, Envigado y otras áreas de la ciudad, manteniendo idénticos protocolos de bioseguridad y la misma calidad profesional.</p>
         <a href="https://wa.me/573161832897?text=Hola,%20necesito%20un%20podólogo%20a%20domicilio%20en%20Medellín"
            class="btn-wa"
-           onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+           onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
           Consultar disponibilidad
         </a>
@@ -849,7 +849,7 @@
     <div class="cta-band__actions">
       <a href="https://wa.me/573161832897?text=Hola,%20quiero%20agendar%20cita%20con%20podólogo%20en%20Medellín"
          class="btn-wa"
-         onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+         onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
         Hablar con un podólogo ahora
       </a>
@@ -894,7 +894,7 @@
           </div>
           <div class="map-detail__text">
             <p>Reserva ya</p>
-            <strong><a href="https://wa.me/573161832897" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})" style="color:var(--teal-dark);">+57 316 183 2897</a></strong>
+            <strong><a href="https://wa.me/573161832897" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})" style="color:var(--teal-dark);">+57 316 183 2897</a></strong>
           </div>
         </div>
       </div>
@@ -913,7 +913,7 @@
       <div class="footer-lp__links">
         <a href="https://medellinpodologo.dondeseria.com/">Sitio principal</a>
         <a href="landing-unas-encarnadas.html">Uñas Encarnadas</a>
-        <a href="https://wa.me/573161832897" onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">WhatsApp</a>
+        <a href="https://wa.me/573161832897" onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">WhatsApp</a>
       </div>
     </div>
     <div class="footer-lp__bottom">
@@ -926,7 +926,7 @@
 <a href="https://wa.me/573161832897?text=Hola,%20busco%20podólogo%20en%20Medellín"
    class="wa-float"
    title="Hablar con un podólogo"
-   onclick="gtag('event','conversion',{'send_to':'AW-18133963978/x7KMCOa4psAcEMqp-cZD'})">
+   onclick="gtag('event','conversion',{'send_to':'AW-17597907952/_jy5COmUoMQcEPCHq8dB'})">
   <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.124.554 4.122 1.525 5.857L.057 23.858l6.168-1.45A11.944 11.944 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.93 0-3.742-.502-5.313-1.38l-.38-.22-3.662.862.878-3.572-.248-.394A9.944 9.944 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
 </a>
 
